@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootStrapTest", "BootStrapTest\BootStrapTest.csproj", "{303D96B3-A55B-4640-AE38-3E8EDC24A15E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{303D96B3-A55B-4640-AE38-3E8EDC24A15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303D96B3-A55B-4640-AE38-3E8EDC24A15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303D96B3-A55B-4640-AE38-3E8EDC24A15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303D96B3-A55B-4640-AE38-3E8EDC24A15E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BootStrapTest\BootStrapTest.csproj
+	EndGlobalSection
+EndGlobal
